@@ -1,0 +1,8 @@
+(URL:https://www.google.com
+Метод:GET
+Status code: 200
+Время ответа: 1.962194
+Status group: success
+Type text/html; charset=ISO-8859-1
+Длина ответа: 86392
+Headers: {'Content-Type': 'text/html; charset=ISO-8859-1', 'Date': 'Tue, 15 Sep 2026 14:56:02 GMT', 'Expires': '-1', 'Cache-Control': 'private, max-age=0', 'Content-Security-Policy-Report-Only': "object-src 'none';base-uri 'self';script-src 'nonce-coPhShoPqYNHKwIhUj4K7g' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp", 'Accept-CH': 'Sec-CH-Prefers-Color-Scheme', 'P3P': 'CP="This is not a P3P policy! See g.co/p3phelp for more info."', 'Content-Encoding': 'gzip', 'Server': 'gws', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'Set-Cookie': '__Secure-STRP=ANmZwa18iGHmKEn2vmYPjost4VBQdFMbm1XEQx33VTiBTDOw8XW4vbq2on-GT2acOBvb2vvu6YqQvAXCogzjgSEMy9w3_yvmUPxa; expires=Tue, 15-Sep-2026 15:01:02 GMT; path=/; domain=.google.com; Secure; SameSite=strict, AEC=AdJVEavpglt8gqQHe9UiqY9z1I5ar1sN7S8k_E01Oyh9VLSIiWr2PcHFJQ; expires=Sun, 14-Mar-2027 14:56:02 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax, NID=CvsBCAESrQEBp2sxrlVp7D_BFE6WxHFR50Pk77ob66DzzIwvtJOxX1gGnzKTGCkG1rLrRQUEfmoY8omqLjd24iMSQjwnOVhBfrxDlkcnoZYT56gGxRDQx8H62EMp-gfBTzHXoII08gDBuFF31EVI5nRMR78cB5Aej20AiAVJVwewUQAj9v9cF2PH0mEg8Ww56BPFwelQ3ojdZf1ZssaySWPJWO7jT78BRgDJ__4NFwcpprDWkigBMkUBDiveEf2zNoAezgTdZ0n6FI_f0WjO9UW5CwnACAkS3udQR2accehNO7MQUowLQRycV_P_xFekgO2WLNhJJGVGLjfNyws; expires=Wed, 17-Mar-2027 14:56:02 GMT; path=/; domain=.google.com; HttpOnly', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'Transfer-Encoding': 'chunked'}
