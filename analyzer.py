@@ -1,5 +1,4 @@
-import requester
-import reporter
+
 status_dict = {
     '1': "info",
     '2': "success",
@@ -25,7 +24,6 @@ def analyze(response):
         return_dict["body"] = response.text
         return_dict["is_json"] = False
 
-    reporter.report(return_dict)
     return(return_dict)
     
         

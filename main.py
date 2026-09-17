@@ -1,5 +1,6 @@
 import requester
-import requests
+import analyzer
+import reporter
 
 def main():
         
@@ -11,12 +12,18 @@ def main():
             continue
         method = Method.strip().upper()
         break
-    response = requester.send_request(url, method)
+
+    print(f"\n Sending {method} response on {url}")
+
+    response = requester.send_request(url,method)
+    
     if response is None:
-        print("Ошибка")
+        print("Error: problem with connect")
     else:
-        None
-        #print(response.status_code, response.elapsed.total_seconds())
+        report_dict = analyzer.analyze(response)
+
+        reporter.report(report_dict)
+        
 
 
 
